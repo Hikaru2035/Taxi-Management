@@ -1,0 +1,103 @@
+﻿<Window x:Class="TaxiManagementWPF.ViewTaxiLocation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TaxiManagementWPF"
+        mc:Ignorable="d"
+        Height="750" Width="1080" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <ListBox x:Name="JoinRank" 
+                 ItemsSource="{Binding}" 
+                 HorizontalAlignment="Left" 
+                 Height="200" 
+                 Margin="174,30,0,0" 
+                 VerticalAlignment="Top" 
+                 Width="308" 
+                 Background="#FFFFECC7"
+                 BorderThickness="5"
+                 IsSynchronizedWithCurrentItem="True" 
+                 SelectionMode="Multiple"/>
+        <Button Content="Add Taxi to Rank" 
+                HorizontalAlignment="Left" 
+                Margin="21,30,0,0" 
+                VerticalAlignment="Top" 
+                Width="135" 
+                Click="AddTaxiToRank_Click"
+                FontSize="16"
+                FontWeight="Bold"/>
+
+        <ListBox x:Name="LeaveRank" 
+            ItemsSource="{Binding}" 
+            HorizontalAlignment="Left" 
+            Height="200" 
+            Margin="174,260,0,0" 
+            VerticalAlignment="Top" 
+            Width="308" 
+            Background="#FFFFECC7"
+            BorderThickness="5" 
+            IsSynchronizedWithCurrentItem="True" 
+            SelectionMode="Multiple"/>
+        <Button Content="Taxi Leave Rank" 
+            HorizontalAlignment="Left" 
+            Margin="21,260,0,0" 
+            VerticalAlignment="Top" 
+            Width="135" 
+            Click="TaxiLeaveRank_Click"
+            FontSize="16"
+            FontWeight="Bold"/>
+
+        <ListBox x:Name="DropFare" 
+            ItemsSource="{Binding}" 
+            HorizontalAlignment="Left" 
+            Height="200" 
+            Margin="174,490,0,0" 
+            VerticalAlignment="Top" 
+            Width="308" 
+            Background="#FFFFECC7" 
+            BorderThickness="5"
+            IsSynchronizedWithCurrentItem="True" 
+            SelectionMode="Multiple"/>
+
+        <Button Content="Taxi Drop Fare" 
+            HorizontalAlignment="Left" 
+            Margin="21,490,0,0" 
+            VerticalAlignment="Top" 
+            Width="135" 
+            Click="TaxiDropFare_Click"
+            FontSize="16"
+            FontWeight="Bold"/>
+
+        <ListBox x:Name="ViewLocation" 
+            ItemsSource="{Binding}" 
+            HorizontalAlignment="Left" 
+            Height="551" 
+            Margin="540,79,0,0" 
+            VerticalAlignment="Top" 
+            Width="498" 
+            Background="#FFFFECC7"
+            BorderThickness="5"
+            IsSynchronizedWithCurrentItem="True" 
+            SelectionMode="Multiple"/>
+
+        <Button Content="View all taxi location" 
+            HorizontalAlignment="Left" 
+            Margin="540,30,0,0" 
+            VerticalAlignment="Top" 
+            Width="498" 
+            Click="ViewLocation_Click"
+            FontSize="16"
+            FontWeight="Bold"/>
+
+        <Button Content="Back" 
+        HorizontalAlignment="Left" 
+        Margin="903,665,0,0" 
+        VerticalAlignment="Top" 
+        Width="135" 
+        Click="CancelButton_Click"
+        FontSize="16"
+        FontWeight="Bold"/>
+
+
+    </Grid>
+</Window>

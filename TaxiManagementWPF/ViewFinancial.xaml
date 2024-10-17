@@ -1,0 +1,44 @@
+﻿<Window x:Class="TaxiManagementWPF.ViewFinancial"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TaxiManagementWPF"
+        mc:Ignorable="d"
+        Height="720" Width="1080" WindowStartupLocation="CenterScreen">
+    <Grid>
+
+        <ListBox x:Name="ViewLocation" 
+            ItemsSource="{Binding}" 
+            HorizontalAlignment="Left" 
+            Height="514" 
+            Margin="52,58,0,0" 
+            VerticalAlignment="Top" 
+            Width="986" 
+            Background="#ffffff" 
+            IsSynchronizedWithCurrentItem="True" 
+            SelectionMode="Multiple"
+            BorderThickness="5"/>
+
+        <Button Content="View Financial Report" 
+            HorizontalAlignment="Left" 
+            Margin="479,598,0,0" 
+            VerticalAlignment="Top" 
+            Width="265" 
+            Click="ViewLocation_Click" Height="59"
+            Background="#FFFFECC7"
+            FontSize="16"
+            FontWeight="Bold"/>
+
+        <Button Content="Back" 
+        HorizontalAlignment="Left" 
+        Margin="773,597,0,0" 
+        VerticalAlignment="Top" 
+        Width="265"
+        Height=" 59"
+        Click="CancelButton_Click"
+        FontSize="16"
+        FontWeight="Bold"
+        Background="#FFFFECC7"/>
+    </Grid>
+</Window>

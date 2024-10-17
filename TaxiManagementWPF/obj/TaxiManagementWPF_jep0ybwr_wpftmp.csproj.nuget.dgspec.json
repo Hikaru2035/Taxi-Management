@@ -1,0 +1,125 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Users\\diep.pn\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\TaxiManagementAssignment\\TaxiManagementWPF\\TaxiManagementWPF.csproj": {}
+  },
+  "projects": {
+    "D:\\Users\\diep.pn\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\TaxiManagementAssignment\\TaxiManagementAssignment\\TaxiManagementAssignment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\diep.pn\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\TaxiManagementAssignment\\TaxiManagementAssignment\\TaxiManagementAssignment.csproj",
+        "projectName": "TaxiManagementAssignment",
+        "projectPath": "D:\\Users\\diep.pn\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\TaxiManagementAssignment\\TaxiManagementAssignment\\TaxiManagementAssignment.csproj",
+        "packagesPath": "D:\\Users\\diep.pn\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\diep.pn\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\TaxiManagementAssignment\\TaxiManagementAssignment\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Users\\diep.pn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Users\\diep.pn\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\TaxiManagementAssignment\\TaxiManagementWPF\\TaxiManagementWPF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\diep.pn\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\TaxiManagementAssignment\\TaxiManagementWPF\\TaxiManagementWPF.csproj",
+        "projectName": "TaxiManagementWPF",
+        "projectPath": "D:\\Users\\diep.pn\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\TaxiManagementAssignment\\TaxiManagementWPF\\TaxiManagementWPF.csproj",
+        "packagesPath": "D:\\Users\\diep.pn\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\diep.pn\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\TaxiManagementAssignment\\TaxiManagementWPF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Users\\diep.pn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "D:\\Users\\diep.pn\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\TaxiManagementAssignment\\TaxiManagementAssignment\\TaxiManagementAssignment.csproj": {
+                "projectPath": "D:\\Users\\diep.pn\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\TaxiManagementAssignment\\TaxiManagementAssignment\\TaxiManagementAssignment.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,403 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40B52E4E-5950-47B9-99AA-08A2363447E2}|TaxiManagementAssignment\\TaxiManagementAssignment.csproj|c:\\users\\asus\\onedrive - buv.edu.vn\\2310ct-y1s2\\sd\\taximanagementassignment\\taximanagementassignment\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B52E4E-5950-47B9-99AA-08A2363447E2}|TaxiManagementAssignment\\TaxiManagementAssignment.csproj|solutionrelative:taximanagementassignment\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B52E4E-5950-47B9-99AA-08A2363447E2}|TaxiManagementAssignment\\TaxiManagementAssignment.csproj|C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\taximanagementassignment\\taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B52E4E-5950-47B9-99AA-08A2363447E2}|TaxiManagementAssignment\\TaxiManagementAssignment.csproj|solutionrelative:taximanagementassignment\\taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B52E4E-5950-47B9-99AA-08A2363447E2}|TaxiManagementAssignment\\TaxiManagementAssignment.csproj|C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\taximanagementassignment\\rankmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B52E4E-5950-47B9-99AA-08A2363447E2}|TaxiManagementAssignment\\TaxiManagementAssignment.csproj|solutionrelative:taximanagementassignment\\rankmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0858AFF7-C0CC-44A2-BDAC-222861C229CA}|TaxiManagementWPF\\TaxiManagementWPF.csproj|C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\taximanagementwpf\\viewfinancial.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0858AFF7-C0CC-44A2-BDAC-222861C229CA}|TaxiManagementWPF\\TaxiManagementWPF.csproj|solutionrelative:taximanagementwpf\\viewfinancial.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0858AFF7-C0CC-44A2-BDAC-222861C229CA}|TaxiManagementWPF\\TaxiManagementWPF.csproj|C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\taximanagementwpf\\viewtransactionlog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0858AFF7-C0CC-44A2-BDAC-222861C229CA}|TaxiManagementWPF\\TaxiManagementWPF.csproj|solutionrelative:taximanagementwpf\\viewtransactionlog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0858AFF7-C0CC-44A2-BDAC-222861C229CA}|TaxiManagementWPF\\TaxiManagementWPF.csproj|C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\taximanagementwpf\\viewtaxilocation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0858AFF7-C0CC-44A2-BDAC-222861C229CA}|TaxiManagementWPF\\TaxiManagementWPF.csproj|solutionrelative:taximanagementwpf\\viewtaxilocation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0858AFF7-C0CC-44A2-BDAC-222861C229CA}|TaxiManagementWPF\\TaxiManagementWPF.csproj|C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\taximanagementwpf\\viewtaxilocation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0858AFF7-C0CC-44A2-BDAC-222861C229CA}|TaxiManagementWPF\\TaxiManagementWPF.csproj|solutionrelative:taximanagementwpf\\viewtaxilocation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0858AFF7-C0CC-44A2-BDAC-222861C229CA}|TaxiManagementWPF\\TaxiManagementWPF.csproj|C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\taximanagementwpf\\taxileaverank.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0858AFF7-C0CC-44A2-BDAC-222861C229CA}|TaxiManagementWPF\\TaxiManagementWPF.csproj|solutionrelative:taximanagementwpf\\taxileaverank.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0858AFF7-C0CC-44A2-BDAC-222861C229CA}|TaxiManagementWPF\\TaxiManagementWPF.csproj|C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\taximanagementwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0858AFF7-C0CC-44A2-BDAC-222861C229CA}|TaxiManagementWPF\\TaxiManagementWPF.csproj|solutionrelative:taximanagementwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0858AFF7-C0CC-44A2-BDAC-222861C229CA}|TaxiManagementWPF\\TaxiManagementWPF.csproj|C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\taximanagementwpf\\taxidropfare.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0858AFF7-C0CC-44A2-BDAC-222861C229CA}|TaxiManagementWPF\\TaxiManagementWPF.csproj|solutionrelative:taximanagementwpf\\taxidropfare.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0858AFF7-C0CC-44A2-BDAC-222861C229CA}|TaxiManagementWPF\\TaxiManagementWPF.csproj|C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\taximanagementwpf\\addtaxitorank.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0858AFF7-C0CC-44A2-BDAC-222861C229CA}|TaxiManagementWPF\\TaxiManagementWPF.csproj|solutionrelative:taximanagementwpf\\addtaxitorank.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0858AFF7-C0CC-44A2-BDAC-222861C229CA}|TaxiManagementWPF\\TaxiManagementWPF.csproj|C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\taximanagementwpf\\taxidropfare.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0858AFF7-C0CC-44A2-BDAC-222861C229CA}|TaxiManagementWPF\\TaxiManagementWPF.csproj|solutionrelative:taximanagementwpf\\taxidropfare.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B52E4E-5950-47B9-99AA-08A2363447E2}|TaxiManagementAssignment\\TaxiManagementAssignment.csproj|C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\taximanagementassignment\\transactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B52E4E-5950-47B9-99AA-08A2363447E2}|TaxiManagementAssignment\\TaxiManagementAssignment.csproj|solutionrelative:taximanagementassignment\\transactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B52E4E-5950-47B9-99AA-08A2363447E2}|TaxiManagementAssignment\\TaxiManagementAssignment.csproj|C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\taximanagementassignment\\taximanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B52E4E-5950-47B9-99AA-08A2363447E2}|TaxiManagementAssignment\\TaxiManagementAssignment.csproj|solutionrelative:taximanagementassignment\\taximanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B52E4E-5950-47B9-99AA-08A2363447E2}|TaxiManagementAssignment\\TaxiManagementAssignment.csproj|C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\taximanagementassignment\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B52E4E-5950-47B9-99AA-08A2363447E2}|TaxiManagementAssignment\\TaxiManagementAssignment.csproj|solutionrelative:taximanagementassignment\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B52E4E-5950-47B9-99AA-08A2363447E2}|TaxiManagementAssignment\\TaxiManagementAssignment.csproj|C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\taximanagementassignment\\rank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B52E4E-5950-47B9-99AA-08A2363447E2}|TaxiManagementAssignment\\TaxiManagementAssignment.csproj|solutionrelative:taximanagementassignment\\rank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B52E4E-5950-47B9-99AA-08A2363447E2}|TaxiManagementAssignment\\TaxiManagementAssignment.csproj|C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\taximanagementassignment\\jointransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B52E4E-5950-47B9-99AA-08A2363447E2}|TaxiManagementAssignment\\TaxiManagementAssignment.csproj|solutionrelative:taximanagementassignment\\jointransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B52E4E-5950-47B9-99AA-08A2363447E2}|TaxiManagementAssignment\\TaxiManagementAssignment.csproj|C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\taximanagementassignment\\droptransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B52E4E-5950-47B9-99AA-08A2363447E2}|TaxiManagementAssignment\\TaxiManagementAssignment.csproj|solutionrelative:taximanagementassignment\\droptransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0858AFF7-C0CC-44A2-BDAC-222861C229CA}|TaxiManagementWPF\\TaxiManagementWPF.csproj|C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\taximanagementwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0858AFF7-C0CC-44A2-BDAC-222861C229CA}|TaxiManagementWPF\\TaxiManagementWPF.csproj|solutionrelative:taximanagementwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0858AFF7-C0CC-44A2-BDAC-222861C229CA}|TaxiManagementWPF\\TaxiManagementWPF.csproj|C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\taximanagementwpf\\addtaxitorank.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0858AFF7-C0CC-44A2-BDAC-222861C229CA}|TaxiManagementWPF\\TaxiManagementWPF.csproj|solutionrelative:taximanagementwpf\\addtaxitorank.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0858AFF7-C0CC-44A2-BDAC-222861C229CA}|TaxiManagementWPF\\TaxiManagementWPF.csproj|C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\taximanagementwpf\\viewfinancial.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0858AFF7-C0CC-44A2-BDAC-222861C229CA}|TaxiManagementWPF\\TaxiManagementWPF.csproj|solutionrelative:taximanagementwpf\\viewfinancial.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A97D29-D358-4548-B8D3-4D52731293D5}|TaxiManagementTests\\TaxiManagementTests.csproj|C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\taximanagementtests\\_07_userui_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A97D29-D358-4548-B8D3-4D52731293D5}|TaxiManagementTests\\TaxiManagementTests.csproj|solutionrelative:taximanagementtests\\_07_userui_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0858AFF7-C0CC-44A2-BDAC-222861C229CA}|TaxiManagementWPF\\TaxiManagementWPF.csproj|C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\taximanagementwpf\\viewtransactionlog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0858AFF7-C0CC-44A2-BDAC-222861C229CA}|TaxiManagementWPF\\TaxiManagementWPF.csproj|solutionrelative:taximanagementwpf\\viewtransactionlog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0858AFF7-C0CC-44A2-BDAC-222861C229CA}|TaxiManagementWPF\\TaxiManagementWPF.csproj|C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\taximanagementwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0858AFF7-C0CC-44A2-BDAC-222861C229CA}|TaxiManagementWPF\\TaxiManagementWPF.csproj|solutionrelative:taximanagementwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserUI.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementAssignment\\UserUI.cs",
+              "RelativeDocumentMoniker": "TaxiManagementAssignment\\UserUI.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementAssignment\\UserUI.cs",
+              "RelativeToolTip": "TaxiManagementAssignment\\UserUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:25:23.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewFinancial.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementWPF\\ViewFinancial.xaml",
+              "RelativeDocumentMoniker": "TaxiManagementWPF\\ViewFinancial.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementWPF\\ViewFinancial.xaml",
+              "RelativeToolTip": "TaxiManagementWPF\\ViewFinancial.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-02T12:00:20.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaxiDropFare.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementWPF\\TaxiDropFare.xaml",
+              "RelativeDocumentMoniker": "TaxiManagementWPF\\TaxiDropFare.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementWPF\\TaxiDropFare.xaml",
+              "RelativeToolTip": "TaxiManagementWPF\\TaxiDropFare.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-25T22:37:09.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewTaxiLocation.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementWPF\\ViewTaxiLocation.xaml",
+              "RelativeDocumentMoniker": "TaxiManagementWPF\\ViewTaxiLocation.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementWPF\\ViewTaxiLocation.xaml",
+              "RelativeToolTip": "TaxiManagementWPF\\ViewTaxiLocation.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-02T10:28:59.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TaxiManagementWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementWPF\\MainWindow.xaml",
+              "RelativeToolTip": "TaxiManagementWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-02T10:25:02.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaxiLeaveRank.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementWPF\\TaxiLeaveRank.xaml",
+              "RelativeDocumentMoniker": "TaxiManagementWPF\\TaxiLeaveRank.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementWPF\\TaxiLeaveRank.xaml",
+              "RelativeToolTip": "TaxiManagementWPF\\TaxiLeaveRank.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-25T22:37:13.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewTransactionLog.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementWPF\\ViewTransactionLog.xaml",
+              "RelativeDocumentMoniker": "TaxiManagementWPF\\ViewTransactionLog.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementWPF\\ViewTransactionLog.xaml",
+              "RelativeToolTip": "TaxiManagementWPF\\ViewTransactionLog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-02T11:59:25.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewTaxiLocation.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementWPF\\ViewTaxiLocation.xaml.cs",
+              "RelativeDocumentMoniker": "TaxiManagementWPF\\ViewTaxiLocation.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementWPF\\ViewTaxiLocation.xaml.cs",
+              "RelativeToolTip": "TaxiManagementWPF\\ViewTaxiLocation.xaml.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAQwKoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:26:33.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RankManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementAssignment\\RankManager.cs",
+              "RelativeDocumentMoniker": "TaxiManagementAssignment\\RankManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementAssignment\\RankManager.cs",
+              "RelativeToolTip": "TaxiManagementAssignment\\RankManager.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwFMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T10:06:26.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Taxi.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementAssignment\\Taxi.cs",
+              "RelativeDocumentMoniker": "TaxiManagementAssignment\\Taxi.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementAssignment\\Taxi.cs",
+              "RelativeToolTip": "TaxiManagementAssignment\\Taxi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:40:42.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddTaxiToRank.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementWPF\\AddTaxiToRank.xaml",
+              "RelativeDocumentMoniker": "TaxiManagementWPF\\AddTaxiToRank.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementWPF\\AddTaxiToRank.xaml",
+              "RelativeToolTip": "TaxiManagementWPF\\AddTaxiToRank.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-02T22:45:15.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaxiDropFare.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementWPF\\TaxiDropFare.xaml.cs",
+              "RelativeDocumentMoniker": "TaxiManagementWPF\\TaxiDropFare.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementWPF\\TaxiDropFare.xaml.cs",
+              "RelativeToolTip": "TaxiManagementWPF\\TaxiDropFare.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T01:01:37.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementAssignment\\Transaction.cs",
+              "RelativeDocumentMoniker": "TaxiManagementAssignment\\Transaction.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementAssignment\\Transaction.cs",
+              "RelativeToolTip": "TaxiManagementAssignment\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:44:51.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JoinTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementAssignment\\JoinTransaction.cs",
+              "RelativeDocumentMoniker": "TaxiManagementAssignment\\JoinTransaction.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementAssignment\\JoinTransaction.cs",
+              "RelativeToolTip": "TaxiManagementAssignment\\JoinTransaction.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:40:38.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Rank.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementAssignment\\Rank.cs",
+              "RelativeDocumentMoniker": "TaxiManagementAssignment\\Rank.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementAssignment\\Rank.cs",
+              "RelativeToolTip": "TaxiManagementAssignment\\Rank.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:41:05.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaxiManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementAssignment\\TaxiManager.cs",
+              "RelativeDocumentMoniker": "TaxiManagementAssignment\\TaxiManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementAssignment\\TaxiManager.cs",
+              "RelativeToolTip": "TaxiManagementAssignment\\TaxiManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T10:06:32.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TransactionManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementAssignment\\TransactionManager.cs",
+              "RelativeDocumentMoniker": "TaxiManagementAssignment\\TransactionManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementAssignment\\TransactionManager.cs",
+              "RelativeToolTip": "TaxiManagementAssignment\\TransactionManager.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:15:23.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DropTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementAssignment\\DropTransaction.cs",
+              "RelativeDocumentMoniker": "TaxiManagementAssignment\\DropTransaction.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementAssignment\\DropTransaction.cs",
+              "RelativeToolTip": "TaxiManagementAssignment\\DropTransaction.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:15:18.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ViewFinancial.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementWPF\\ViewFinancial.xaml.cs",
+              "RelativeDocumentMoniker": "TaxiManagementWPF\\ViewFinancial.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementWPF\\ViewFinancial.xaml.cs",
+              "RelativeToolTip": "TaxiManagementWPF\\ViewFinancial.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:00:30.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddTaxiToRank.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementWPF\\AddTaxiToRank.xaml.cs",
+              "RelativeDocumentMoniker": "TaxiManagementWPF\\AddTaxiToRank.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementWPF\\AddTaxiToRank.xaml.cs",
+              "RelativeToolTip": "TaxiManagementWPF\\AddTaxiToRank.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:45:38.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_07_UserUI_Tests.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementTests\\_07_UserUI_Tests.cs",
+              "RelativeDocumentMoniker": "TaxiManagementTests\\_07_UserUI_Tests.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementTests\\_07_UserUI_Tests.cs",
+              "RelativeToolTip": "TaxiManagementTests\\_07_UserUI_Tests.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwD8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:33:04.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TaxiManagementWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TaxiManagementWPF\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:25:02.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ViewTransactionLog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementWPF\\ViewTransactionLog.xaml.cs",
+              "RelativeDocumentMoniker": "TaxiManagementWPF\\ViewTransactionLog.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementWPF\\ViewTransactionLog.xaml.cs",
+              "RelativeToolTip": "TaxiManagementWPF\\ViewTransactionLog.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:27:15.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementWPF\\App.xaml",
+              "RelativeDocumentMoniker": "TaxiManagementWPF\\App.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - buv.edu.vn\\2310CT-Y1S2\\SD\\TaxiManagementAssignment\\TaxiManagementWPF\\App.xaml",
+              "RelativeToolTip": "TaxiManagementWPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-02T10:22:48.972Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

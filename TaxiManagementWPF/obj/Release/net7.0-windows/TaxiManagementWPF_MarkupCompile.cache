@@ -1,0 +1,20 @@
+﻿TaxiManagementWPF
+
+
+winexe
+C#
+.cs
+D:\Users\diep.pn\OneDrive - buv.edu.vn\2310CT-Y1S2\TaxiManagementAssignment\TaxiManagementWPF\obj\Release\net7.0-windows\
+TaxiManagementWPF
+none
+false
+TRACE;RELEASE;NET;NET7_0;NETCOREAPP
+D:\Users\diep.pn\OneDrive - buv.edu.vn\2310CT-Y1S2\TaxiManagementAssignment\TaxiManagementWPF\App.xaml
+71855027419
+
+10-247077306
+199287512941
+AddTaxiToRank.xaml;MainWindow.xaml;TaxiDropFare.xaml;TaxiLeaveRank.xaml;ViewFinancial.xaml;ViewTaxiLocation.xaml;ViewTransactionLog.xaml;
+
+True
+
